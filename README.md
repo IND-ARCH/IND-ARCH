@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋 This is the offuicial github page of Hashira Association</h1>
+<h1 align="center">Hi! 👋 This is the official github page of Hashira Association</h1>
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=We+are+Passionate+Developers+From+India%E2%9C%8C%EF%B8%8F;Working+For+Hashira+Association%E2%9D%A4%EF%B8%8F">
