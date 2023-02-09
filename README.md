@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 This is the official github page of Hashira Association</h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=We+are+Passionate+Developers+From+India%E2%9C%8C%EF%B8%8F;Working+For+Hashira+Association%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=We+are+Developers+From+India%E2%9C%8C%EF%B8%8F;Working+For+Hashira+Association%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
   <a href="https://t.me/Hashira_Association"><img src="https://telegra.ph/file/eeb6fbe91d180f12ef47f.jpg" alt="Hashira"></a>
