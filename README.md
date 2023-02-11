@@ -27,7 +27,7 @@
 
 ![Hashira's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=HashiraAssociation&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 # Cute visitor count
-<a href="https://t.me/Hashira_Association"><img alt="Cute Count" src="https://count.getloli.com/get/@Hashira_Association?theme=rule35" /></a>
+<a href="https://t.me/Hashira_Association"><img alt="Cute Count" src="https://count.getloli.com/get/@Hashira_Association?theme=rule34" /></a>
 
 Trophies:  
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=HashiraAssociation&theme=dracula&count_private=true"></div>
