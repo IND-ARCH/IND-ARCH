@@ -27,7 +27,7 @@
 
 ![Prime's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=PrimexRick&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 # Cute visitor count
-<a href="https://t.me/Primesdivision"><img alt="Cute Count" src="https://count.getloli.com/get/PrimesDivisiion?theme=rule34" /></a>
+<a href="https://t.me/Primesdivision"><img alt="Cute Count" src="https://count.getloli.com/get/@PrimexRick?theme=rule34" /></a>
 
 Trophies:  
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=PrimexRick&theme=dracula&count_private=true"></div>
