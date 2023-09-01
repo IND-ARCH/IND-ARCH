@@ -22,10 +22,9 @@
 
 ![Rick's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=PrimexRick&theme=tokyonight)
 
-# My Activity Graph
+# My portfolio
 
-
-![Prime's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=PrimexRick&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+[My PortFolio](https://primexrick.vercel.app)
 # Cute visitor count
 <a href="https://t.me/Primesdivision"><img alt="Cute Count" src="https://count.getloli.com/get/@PrimexRick?theme=rule34" /></a>
 
