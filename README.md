@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 This is the official github page of Rick </h1>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=I+Am+A+Developer+From+India%E2%9C%8C%EF%B8%8F;Check+Portfolio+For+More+Info%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=I+Am+A+Developer+From+India%E2%9C%8C%EF%B8%8F;Check+Portfolio+For+More+Information%E2%9D%A4%EF%B8%8F">
 </p>
 <p align="center">
   <a href="https://t.me/CipherFlame"><img src="https://telegra.ph/file/a5369609e7977c45d37af.jpg" alt="Hashira"></a>
