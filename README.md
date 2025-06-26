@@ -28,5 +28,10 @@
 # Cute visitor count
 <a href="https://t.me/CipherFlame"><img alt="Cute Count" src="https://count.getloli.com/get/@PrimexRick?theme=rule34" /></a>
 
-Trophies:  
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=PrimexRick&theme=dracula&count_private=true"></div>
+</p>
+
+ ### Trophies
+
+<p align="center">
+  <img alt="Trophies" style="padding-bottom:10px;" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub">
+</p>
