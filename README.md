@@ -30,8 +30,11 @@
 
 </p>
 
- ### Trophies
+## Statistics
+
+- ### Trophies
 
 <p align="center">
-  <img alt="Trophies" style="padding-bottom:10px;" src="https://github-profile-trophy.vercel.app/?username=Arch-EvT&theme=darkhub">
+  <img alt="Trophies" style="padding-bottom:10px;" src="https://github-profile-trophy.vercel.app/?username=IND-ARCH&theme=darkhub">
 </p>
+  
