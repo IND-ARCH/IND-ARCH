@@ -12,21 +12,21 @@
     <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
   </a>  
 </a>
-  <a href="https://github.com/primexrick">
-    <img src="https://img.shields.io/github/followers/PrimexRick?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  <a href="https://github.com/IND-ARCH>
+    <img src="https://img.shields.io/github/followers/IND-ARCH?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
 
 # My GitHub Stats
 
-![Rick's Git Stats](https://github-readme-stats.vercel.app/api?username=PrimexRick&include_all_commits=true&count_private=true&theme=tokyonight)
+![Rick's Git Stats](https://github-readme-stats.vercel.app/api?username=IND-ARCH&include_all_commits=true&count_private=true&theme=tokyonight)
 
-![Rick's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=PrimexRick&theme=tokyonight)
+![Rick's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=IND-ARCH&theme=tokyonight)
 
 # My portfolio
 
 [• CLICK HERE TO REACH MY PORTFOLIO SITE •](https://primexrick.vercel.app)
 # Cute visitor count
-<a href="https://t.me/CipherFlame"><img alt="Cute Count" src="https://count.getloli.com/get/@PrimexRick?theme=rule34" /></a>
+<a href="https://t.me/CipherFlame"><img alt="Cute Count" src="https://count.getloli.com/get/@IND-ARCH?theme=rule34" /></a>
 
 </p>
 
