@@ -33,5 +33,5 @@
  ### Trophies
 
 <p align="center">
-  <img alt="Trophies" style="padding-bottom:10px;" src="https://github-profile-trophy.vercel.app/?username=ind-arch&theme=darkhub">
+  <img alt="Trophies" style="padding-bottom:10px;" src="https://github-profile-trophy.vercel.app/?username=Arch-EvT&theme=darkhub">
 </p>
